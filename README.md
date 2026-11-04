@@ -83,7 +83,7 @@ Created an AI-powered healthcare workflow assistant that converts vague operatio
 
 ---
 
-## University of Houston — Teaching Assistant
+## University of Houston — Instructional Assistant
 - Supported graduate students in NLP and explainable AI workflows
 - Developed transformer-based and interpretability-focused learning notebooks
 - Automated grading and feedback workflows using Python
