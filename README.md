@@ -90,13 +90,6 @@ Created an AI-powered healthcare workflow assistant that converts vague operatio
 
 ---
 
-## Teachnook from Aican Automate — Data Science Intern
-- Built ML workflows involving preprocessing, feature engineering, and evaluation
-- Applied explainability techniques including SHAP and LIME
-- Improved predictive performance through model optimization workflows
-
----
-
 # Education
 
 ## University of Houston
