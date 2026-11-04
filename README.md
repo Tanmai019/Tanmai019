@@ -104,8 +104,8 @@ Bachelor of Technology in Computer Science and Engineering
 
 # Connect With Me
 
-- LinkedIn: www.linkedin.com/in/sai-tanmai-burela
-- GitHub: github.com/Tanmai019
+- LinkedIn: https://www.linkedin.com/in/burela-sai-tanmai
+- GitHub: https://github.com/Tanmai019
 
 I am actively interested in opportunities across:
 - Data Science
